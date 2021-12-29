@@ -210,9 +210,10 @@ blockquote {
 // Social (bottom)
 
 .social {
+  margin-top: 20px;
   text-align: center;
   .contact-icons {
-    font-size: 4rem;
+    font-size: 2.5rem;
     a {
       i::before {
         color: var(--global-text-color);
@@ -562,4 +563,8 @@ html.transition *:after {
   color: var(--global-text-color-light);
   font-size: 0.875rem;
   padding-top: 0.25rem;
+}
+
+.post-header {
+  margin-bottom: 50px;
 }
