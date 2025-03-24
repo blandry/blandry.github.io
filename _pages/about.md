@@ -14,7 +14,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I currently lead a robotics research team at Apple.
+I currently lead an ML and robotics research team at Apple.
 
 In 2021, I received a PhD in Aeronautics &amp; Astronautics from Stanford University where I studied under the guidance of Professor Marco Pavone. My research leveraged machine learning, optimization and control theory to address planning and control problems in robotics.
 
